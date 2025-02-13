@@ -9,3 +9,6 @@ sub_info  0B  10.14G  2025-02-14 17:40:23+08:00  (剩余 10.14G 23:16:26.315812)
 sub_url  http://175.178.9.20/link/e46AZ9FojvTz0AMu?sub=3
 time  2025-02-13 17:40:24.350992+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 21, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 21)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
