@@ -5,8 +5,7 @@ invite_code  9GQC  9999
 last_checkin  2025-03-01 16:56:49.839360+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.14G  2025-03-02 16:56:49+08:00  (剩余 10.14G 23:34:19.753504)
+sub_info  0B  10.14G  2025-03-02 16:56:49+08:00  (剩余 10.14G 23:17:50.301678)
 sub_url  http://175.178.9.20/link/rY5oOmdwP1RbYLSY?sub=3
 time  2025-03-01 16:56:51.044210+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
