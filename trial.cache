@@ -5,7 +5,8 @@ invite_code  m3jc  9998
 last_checkin  2025-03-08 14:25:00.819494+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.1G  2025-03-09 14:25:00+08:00  (剩余 10.1G 20:31:52.109218)
+sub_info  0B  10.1G  2025-03-09 14:25:00+08:00  (剩余 10.1G 20:06:08.649536)
 sub_url  http://175.178.9.20/link/W6CBYwCaQBW4ZRwA?sub=3
 time  2025-03-08 14:25:02.156059+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 9, column 1: 	background: url('//d38psrni17bv ... ^ (line: 9)
