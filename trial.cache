@@ -9,4 +9,4 @@ sub_info  0B  10.12G  2025-03-10 12:53:04+08:00  (剩余 10.12G 22:00:09.521231)
 sub_url  http://175.178.9.20/link/NTNQCra9cAYm3VTO?sub=3
 time  2025-03-09 12:53:06.517111+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc90afa8280>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2a073f5630>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
