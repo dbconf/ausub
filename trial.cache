@@ -5,7 +5,8 @@ invite_code  AITg  9999
 last_checkin  2025-03-11 00:27:21.677404+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.13G  2025-03-12 00:27:21+08:00  (剩余 10.13G 23:59:51.717598)
+sub_info  0B  10.13G  2025-03-12 00:27:21+08:00  (剩余 10.13G 23:39:54.414736)
 sub_url  http://175.178.9.20/link/nZQaHUNVz1HPyP6j?sub=3
 time  2025-03-11 00:27:22.989546+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
