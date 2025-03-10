@@ -9,4 +9,4 @@ sub_info  0B  10.12G  2025-03-11 18:39:27+08:00  (剩余 10.12G 23:59:55.395114)
 sub_url  http://175.178.9.20/link/CAGWeObjIPI0nap6?sub=3
 time  2025-03-10 18:39:29.726120+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/CAGWeObjIPI0nap6?sub=3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f69b3827190>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/CAGWeObjIPI0nap6?sub=3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f59846ddb40>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
