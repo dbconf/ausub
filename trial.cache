@@ -5,7 +5,8 @@ invite_code  su75  9998
 last_checkin  2025-03-19 15:40:01.642515+08:00
 name  飞翔吧
 node_n  46
-sub_info  37.82M  10.17G  2025-03-20 15:40:01+08:00  (剩余 10.13G 21:55:14.697300)
+sub_info  37.82M  10.17G  2025-03-20 15:40:01+08:00  (剩余 10.13G 21:42:38.628567)
 sub_url  http://175.178.9.20/link/DPTjU5VGp1pB5G0t?sub=3
 time  2025-03-19 15:40:02.952245+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
