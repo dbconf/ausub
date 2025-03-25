@@ -9,3 +9,6 @@ sub_info  0B  10.16G  2025-03-26 15:53:35+08:00  (剩余 10.16G 18:00:25.650853)
 sub_url  http://175.178.9.20/link/9QyPXFXp6DrpeLRN?sub=3
 time  2025-03-25 15:53:36.713259+08:00
 type  sspanel
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
