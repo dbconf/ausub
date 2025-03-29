@@ -5,7 +5,8 @@ invite_code  VOWO  10000
 last_checkin  2025-03-29 23:24:11.366394+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.1G  2025-03-30 23:24:09+08:00  (剩余 10.1G 23:43:23.564041)
+sub_info  0B  10.1G  2025-03-30 23:24:09+08:00  (剩余 10.1G 23:30:28.889072)
 sub_url  http://175.178.9.20/link/odm6l00kBChfzxXj?sub=3
 time  2025-03-29 23:24:12.655674+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
