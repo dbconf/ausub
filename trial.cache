@@ -5,10 +5,7 @@ invite_code  MCgv  9998
 last_checkin  2025-04-07 00:44:33.860945+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.314G  10.27G  2025-04-07 22:40:44+08:00  (剩余 8.954G 8:44:56.563282)
+sub_info  1.597G  10.27G  2025-04-07 22:40:44+08:00  (剩余 8.671G 7:45:22.034363)
 sub_url  http://175.178.9.20/link/6YY5C3X0X8UiFJuT?sub=3
 time  2025-04-06 22:40:45.568778+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
