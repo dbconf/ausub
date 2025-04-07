@@ -9,3 +9,6 @@ sub_info  1.314G  10.27G  2025-04-07 22:40:44+08:00  (剩余 8.954G 8:44:56.5632
 sub_url  http://175.178.9.20/link/6YY5C3X0X8UiFJuT?sub=3
 time  2025-04-06 22:40:45.568778+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
