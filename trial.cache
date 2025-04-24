@@ -5,7 +5,8 @@ invite_code  tVTb  9998
 last_checkin  2025-04-24 05:24:29.869749+08:00
 name  飞翔吧
 node_n  46
-sub_info  254.9M  10.15G  2025-04-25 05:24:29+08:00  (剩余 9.899G 16:37:05.823018)
+sub_info  254.9M  10.15G  2025-04-25 05:24:29+08:00  (剩余 9.899G 15:59:57.065094)
 sub_url  http://175.178.9.20/link/dDlsCRlaG7M9LQHr?sub=3
 time  2025-04-24 05:24:31.132629+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
