@@ -5,7 +5,8 @@ invite_code  uroR  9997
 last_checkin  2025-04-25 17:55:58.900862+08:00
 name  飞翔吧
 node_n  46
-sub_info  3.375M  10.18G  2025-04-26 17:55:58+08:00  (剩余 10.18G 23:10:04.864688)
+sub_info  4.006M  10.18G  2025-04-26 17:55:58+08:00  (剩余 10.18G 22:36:13.144522)
 sub_url  http://175.178.9.20/link/ZDIxE5VMPqJFo0LK?sub=3
 time  2025-04-25 17:56:01.043809+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
