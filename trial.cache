@@ -9,3 +9,4 @@ sub_info  35.97K  10.1G  2025-05-28 18:28:34+08:00  (剩余 10.1G 22:34:43.61253
 sub_url  http://175.178.9.20/link/W3cz4H2uAzCtuQOM?sub=3
 time  2025-05-27 18:28:39.374303+08:00
 type  sspanel
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
