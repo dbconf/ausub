@@ -5,7 +5,8 @@ invite_code  mqH2  9997
 last_checkin  2025-06-03 00:33:30.059750+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.31G  2025-06-03 20:53:30+08:00  (剩余 10.31G 14:08:07.549479)
+sub_info  0B  10.31G  2025-06-03 20:53:30+08:00  (剩余 10.31G 13:28:16.231363)
 sub_url  http://175.178.9.20/link/G7VorZzjFdFQ8isV?sub=3
 time  2025-06-02 20:53:32.823224+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
