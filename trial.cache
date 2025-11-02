@@ -9,5 +9,5 @@ sub_info  31.78M  10.13G  2025-06-05 10:06:51+08:00  (剩余 10.09G 0:03:19.8702
 sub_url  https://www.flybar4.cc/link/tUv7NE3eEFFUtzt7?sub=3
 time  2025-06-04 10:06:53.025428+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff0519522f0>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
-更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/tUv7NE3eEFFUtzt7?sub=3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff051aa7340>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa83ef44cd0>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/tUv7NE3eEFFUtzt7?sub=3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa83f28e560>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
