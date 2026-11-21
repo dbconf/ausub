@@ -857,6 +857,9 @@ rules:
 - DOMAIN-SUFFIX,nend.net,💩 ‍广告
 - DOMAIN-SUFFIX,netshelter.net,💩 ‍广告
 - DOMAIN-SUFFIX,nexage.com,💩 ‍广告
+- DOMAIN-SUFFIX,openx.net,💩 ‍广告
+- DOMAIN-SUFFIX,openxenterprise.com,💩 ‍广告
+- DOMAIN-SUFFIX,openxmarket.asia,💩 ‍广告
 - DOMAIN-SUFFIX,owneriq.net,💩 ‍广告
 - DOMAIN-SUFFIX,pixels.asia,💩 ‍广告
 - DOMAIN-SUFFIX,plista.com,💩 ‍广告
@@ -1939,6 +1942,7 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-KEYWORD,anthropic,🤖 ‍AI
+- DOMAIN-KEYWORD,antigravity,🤖 ‍AI
 - DOMAIN-KEYWORD,claude,🤖 ‍AI
 - DOMAIN-KEYWORD,openai,🤖 ‍AI
 - DOMAIN,ai.google.dev,🤖 ‍AI
@@ -1953,6 +1957,7 @@ rules:
 - DOMAIN,geminiweb-pa.clients.google.com,🤖 ‍AI
 - DOMAIN,geminiweb-pa.clients6.google.com,🤖 ‍AI
 - DOMAIN,generativelanguage.googleapis.com,🤖 ‍AI
+- DOMAIN,notebooklm-pa.googleapis.com,🤖 ‍AI
 - DOMAIN,notebooklm.google.com,🤖 ‍AI
 - DOMAIN,sydney.bing.com,🤖 ‍AI
 - DOMAIN-SUFFIX,ai.azure.com,🤖 ‍AI
@@ -1970,6 +1975,7 @@ rules:
 - DOMAIN-SUFFIX,gemini.google.com,🤖 ‍AI
 - DOMAIN-SUFFIX,grazie.ai,🤖 ‍AI
 - DOMAIN-SUFFIX,grazie.aws.intellij.net,🤖 ‍AI
+- DOMAIN-SUFFIX,grok.com,🤖 ‍AI
 - DOMAIN-SUFFIX,identrust.com,🤖 ‍AI
 - DOMAIN-SUFFIX,intercom.io,🤖 ‍AI
 - DOMAIN-SUFFIX,intercomcdn.com,🤖 ‍AI
@@ -3729,7 +3735,6 @@ rules:
 - DOMAIN-SUFFIX,greenpeace.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,greenvpn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,grindr.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,grok.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,grokipedia.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ground.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,gsearch.media,✈️ ‍起飞
